@@ -81,16 +81,6 @@ To set up the project locally:
 
 The dataset is dynamically retrieved from the SEC database and processed within the notebook. Ensure that you have internet access to fetch financial reports and that API keys (if required) are correctly configured.
 
-## Contributions
 
-Contributions are encouraged. Fork the repository, make modifications, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. Refer to the LICENSE file for details.
-
-## Contact
-
-For inquiries or collaboration, contact via GitHub or email at your-email@example.com.
 
 
